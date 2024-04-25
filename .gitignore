@@ -1,0 +1,9 @@
+inkscape/__pycache__/
+roots
+*.pyc
+/dist/
+/*.egg-info
+build/
+inkscape_figures_wayland.egg-info/
+venv/
+
